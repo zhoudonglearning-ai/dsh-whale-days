@@ -1,0 +1,8 @@
+# 鱼的日子 · dsh-whale-days
+#
+# 把「和主人相识第几天」这一行，注入每一次系统提示组装。
+# 日期是算出来的，不是记出来的：换会话、压缩上下文、模型换代，都不影响。
+
+- insert:
+    - id: dsh-whale-days
+      name: 'dsh-whale-days'
